@@ -1,8 +1,56 @@
-<% provide(:title, 'Help') %>
-<h1>Help</h1>
-<p>
-  Get help on the Ruby on Rails Tutorial at the
-  <a href="http://railstutorial.org/help">Rails Tutorial help page</a>.
-  To get help on this sample app, see the
-  <a href="http://railstutorial.org/book">Rails Tutorial book</a>.
+<% provide(:title, 'Services') %>
+<h1>Services</h1>
+
+ 
+
+
+<h3>1) Computer Troubleshooting Services:</h3>
+<h5>
+1.1) Hardware and Software Troubleshooting</h5>
+           <p>Detect and analyze  the computer to find the root of problem. 
+</p>
+
+
+<h3>2) Computer Setup And Upgrade Services:</h3>
+<p>We will configure your new PC just how you would need it. Our process ensures that it is safe and secure for your daily use, therefore reducing any downtime and data loss. Besides, we will assist you in upgrading your computer by analysis, suggesting, and installation of new components for your PC.</p>
+
+<h5>2.1) Computer Installation </h5> 
+<h5>2.2) Equipment Installation </h5>
+<h5>2.3) Software Installation</h5>
+<h5>2.4) Internet Installation </h5>
+<h5>2.5) WLAN-Connection Installation </h5>
+<h5>2.6) Updating or Upgrading Softwares, Hardwares, and Operating System
+<h3>3) Computer Security Service:</h3>
+<p>We clean and remove those infected files with virus or spyware, then you will be able to continue working.</p>
+<h5>3.1) Virus and Spyware Removal</h5>
+<h3> 4) Computer Repair Services:</h3>
+<p>We will fix the problems which come from software or hardware failure.</p>
+<h5>4.1) A Fast Check up</h5> 
+<p>Check up the vital parts of system (CPU, HDD, and OS)<br>
+Removing unnecessary Files 
+Cleaning HDD</p>
+<h5>4.2) Basic repair</h5> 
+<p>Check up all parts of computer <br>
+Check up the security <br>
+Check up Internet <br>
+Clean the HDD by removing unnecessary files 
+HDD defragmentation </p>
+
+<h3> 5) Computer Tune-up Service: </h3>
+<p>We will boost your computer speed and performance if you feel your PC slowed down.</p>
+
+<h3> 6) Computer Advisory Service: </h3>
+<p>We will guide you through the process of buying a new PC or upgrading your PC.  We suggest you the ideal configuration for your use and set you up with a great deal as well.</p>
+<h3> 7) Operating System Install: </h3>
+<p> We will install a new operating system for you.</p>
+<h3>8) Data Services </h3>
+<p>We will remove your data from a computer to another one or to DVD or CD, recovery your data, and backup them.</p>
+<h5> 8.1) Data Removal </h5>
+<p> Transfer files from Digital camera or Mobile Phone if hardwares are ready </p>
+<h5> 8.2) Data Recovery </h5>
+<h5> 8.3) Data Backup </h5>
+<p>Set up an automated backup schedule of your data to an external drive or a cloud.</p>
+
+
+  
 </p>

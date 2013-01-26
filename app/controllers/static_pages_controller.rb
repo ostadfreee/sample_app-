@@ -1,10 +1,25 @@
 class StaticPagesController < ApplicationController
-  def home
+  def home 
   end
 
-  def help
+  def computer_repair
   end
   
-  def about
+  def about 
+  end
+  
+  def contact
+  end
+  
+  def support_plan
+  end
+  
+  def data
+  end
+  
+  def network
+  end
+  
+  def russian
   end
 end

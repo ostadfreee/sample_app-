@@ -1,5 +1,10 @@
-<% provide(:title, 'About Us') %>
+<% provide(:title, 'Computer repair') %>
 </div>
+<div id="footer">
+	<p><strong> PC Protego's computer services </strong> offer you a wide range of technical support from removing a spyware to install a new operating system.<br> Prices are based on the service that has to be performed. Fixed price for most of these services is : <strong> 50 Euros. </strong> </p> 
+	
+	
+ </div>
 <div id="three-column" class="container">
 		<div id="tbox1">
 			<div class="box-style">
@@ -14,7 +19,8 @@
 					<h4>Virus and Spyware Removal</h4>
 					<h3>Computer Advisory Service</h3>
 					<p>We will guide you through the process of buying a new PC or upgrading your PC.  We suggest you the ideal configuration for your use and set you up with a great deal as well.</p>
-					
+					<br>
+					<br>
 					
 								
 				</div>
@@ -37,10 +43,7 @@
 					<h3>  Operating System Install </h3>
 <p> We will install a new operating system for you.</p>
 
-					 
-					 
-					 
-				</div>
+        			</div>
 			</div>
 		</div>
 		<div id="tbox3">
@@ -70,4 +73,3 @@
 			</div>
 	</div>
 </div>
-

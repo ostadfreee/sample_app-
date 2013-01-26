@@ -1,0 +1,53 @@
+<% provide(:title, 'Network') %>
+</div>
+<div id="footer">
+	<p><strong> PC Protego's network services </strong> offer you setting up, configuring, and troubleshooting your wired or wireless network. <br> Fixed price of <strong> network repair </strong> and <strong> network security </strong> is <strong> 50 Euros </strong>, but the price of <strong> network setup </strong> is depend on how many computer is going to be networked.</p> 
+	
+	</p>
+ </div>
+<div id="three-column" class="container">
+		<div id="tbox1">
+			<div class="box-style">
+	
+				<div class="arrow"></div>
+				<div class="content">
+					<h3>Network Setup</h3>
+					<p> Set up and configure your wired or wireless network at your home.</p>
+					<br>
+					<br>
+				</div>
+			</div>
+		</div>
+				
+		<div id="tbox2">
+			<div class="box-style">
+	
+				<div class="arrow"></div>
+				<div class="content">
+					 <h3>Network Repair</h3>
+					 <p> Our tried and tested security methods, will ensure a safe and secure wireless network for your house.</p>
+					 <br>
+					 <br>
+					 
+					
+        			</div>
+			</div>
+		</div>
+		<div id="tbox3">
+			<div class="box-style">
+
+				<div class="arrow"></div>
+				<div class="content">
+					<h3>Network Security</h3>
+					<p>Troubleshooting and repairing your network, thus giving you freedom to access the internet anywhere. </p>
+					<br>
+					<br>
+					
+					
+					
+				</div>
+				</div>
+			</div>
+	</div>
+</div>
+

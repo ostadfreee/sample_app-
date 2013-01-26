@@ -1,0 +1,51 @@
+<% provide(:title, 'Data') %>
+</div>
+<div id="footer">
+	<p><strong> PC Protego's data services </strong> offer you data recovery, securely remove data and provide data backup.<br> We offer you a fixed price of <strong> 50 Euros </strong> for <strong> securely remove data</strong> and <strong> data backup</strong>. To recover your data we charge a price according to <strong> the amount of data </strong> needed to be recovered.<br> You should have a <strong> spare hard disk </strong> at your premises for us to transfer the recovered contents. </p> 
+	
+	</p>
+ </div>
+<div id="three-column" class="container">
+		<div id="tbox1">
+			<div class="box-style">
+	
+				<div class="arrow"></div>
+				<div class="content">
+					<h3>Data Removal</h3>
+					<p> We will remove your data from a computer to another one or to DVD or CD. </p>
+					<br>
+					<br>
+					
+				</div>
+			</div>
+		</div>
+				
+		<div id="tbox2">
+			<div class="box-style">
+	
+				<div class="arrow"></div>
+				<div class="content">
+					 <h3>Data Recovery</h3>
+					 <p> We Recover important information by using right tools and equipments if accidentally deleted.</p>
+					 <br>
+					 <br>
+					 
+					
+        			</div>
+			</div>
+		</div>
+		<div id="tbox3">
+			<div class="box-style">
+
+				<div class="arrow"></div>
+				<div class="content">
+					<h3>Data Backup</h3>
+					<p>Set up an automated backup schedule of your data to an external drive or a cloud. </p>
+					<br>
+					<br>
+					
+				</div>
+				</div>
+			</div>
+	</div>
+</div>

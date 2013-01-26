@@ -1,10 +1,28 @@
 SampleApp::Application.routes.draw do
   get "static_pages/home"
-
-  get "static_pages/help"
-  
+  get "static_pages/computer_repair"
   get "static_pages/about"
+  get "static_pages/contact"
+  get "static_pages/data"
+  get "static_pages/support_plan"
+  get "static_pages/network"
+  get "static_pages/russian"
+  
+  root to: 'static_pages#home'
+  
 
+  match '/computer_repair',    to: 'static_pages#computer_repair'
+  match '/about',   to: 'static_pages#about'
+  match '/contact', to: 'static_pages#contact' 
+  match '/', to: 'static_pages#home' 
+  match '/support_plan', to: 'static_pages#support_plan'
+  match '/data' , to: 'static_pages#data'
+  match '/network', to: 'static_pages#network'
+  match '/russian', to: 'static_pages#russian'
+  match '/home' , to: 'static_pages#home' 
+  
+  
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

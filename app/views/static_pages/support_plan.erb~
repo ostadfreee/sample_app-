@@ -1,0 +1,55 @@
+<% provide(:title, 'Support Plan') %>
+</div>
+<div id="footer">
+
+	<p><strong> PC Protego's support plans </strong> give you off the shelf support for your PC. PcProtego's support plans offer you a chance <strong> "not to pay for annual maintenance contract for every computer, every year"</strong>.<br> Our plans are <strong> "pay when it needs" </strong>. Start saving money today!</p> 
+	
+	</p>
+ </div>
+<div id="three-column" class="container">
+		<div id="tbox1">
+			<div class="box-style">
+	
+				<div class="arrow"></div>
+				<div class="content">
+					<h3>3 Times Plan</h3>
+					<p> Why do you pay for entire year for annual maintenance contarct if you call a few times? Why do you pay the same price for your computer's problems every single time when it occures? This plan is ideal if you are a <strong> "home user" </strong> or you have<strong>  1-3 computers</strong>. <br>
+					price is :<strong> 120 Euros </strong> <br> <strong> 10 Euros per month</strong>  </p>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+				
+		<div id="tbox2">
+			<div class="box-style">
+	
+				<div class="arrow"></div>
+				<div class="content">
+					 <h3>10 Times Plan</h3>
+					 <p> This plan is ideal for customers who have upto a maximum of <strong> 5 computers</strong> at home or office.<br> price is :<strong> 360 Euros </strong> <br> <strong> 30 Euros per month </strong> </p>
+					 <br>
+					 <br>
+					 <br>
+					 
+					
+        			</div>
+			</div>
+		</div>
+		<div id="tbox3">
+			<div class="box-style">
+
+				<div class="arrow"></div>
+				<div class="content">
+					<h3>Unlimited Support Plan</h3>
+					<p>This plan is ideal for customers who have more than <strong> 10 computers </strong> at office.<br> price will be depend on <strong> the amount of computer </strong> you have. </p>
+					<br>
+					<br>
+					<br>
+					
+				</div>
+				</div>
+			</div>
+	</div>
+</div>
