@@ -20,7 +20,7 @@
 	<div id="logo" class="container">
 		<h1><%= link_to "Pc Protego" ,    root_path %></h1>
 		
-		<p>We provide technical suppoprt services for PC home users and small businesses</p>
+		<p>We provide onsite technical suppoprt services for PC home users and small businesses</p>
 	</div>
 	 <! <div class="divider">&nbsp; <! </div>
 	
