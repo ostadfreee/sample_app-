@@ -18,6 +18,7 @@
 		<div id="sidebar">
 			<div>
 				<h2>Our Offers</h2>
+				<p> Why do you pay for entire year for annual maintenance contarct if you call a few times? Why do you pay the same price for your computer's problems every single time when it occurs?</p>
 				<ul class="list-style1">
 					<li class="first"><a <%= link_to "3 TIMES PLAN",    support_plan_path %></a></li>
 					<li><a <%= link_to "10 TIMES PLAN",    support_plan_path %></a></li>
