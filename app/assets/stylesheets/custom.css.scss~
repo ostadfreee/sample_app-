@@ -112,6 +112,13 @@ a:hover {
 	font-size: 30px;
 	color: #696969;
 }
+#logo h5 {
+        margin-top: 140px;
+        padding: 0px 0px 0px 5px;
+        letter-spacing: -2px;
+        font-size: 10px;
+        color: #696969;
+        }
 
 #logo p a {
 	color: #696969;
@@ -409,7 +416,7 @@ a:hover {
 }
 
 #footer a {
-	color: #BBBBBB;
+	color: #C59C9C;
 }
 
 #marketing {
