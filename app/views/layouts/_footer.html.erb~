@@ -3,18 +3,17 @@
 <div id="footer-content" class="container">
 	<div id="footer-bg">
 		<div id="column1">
-			<h2>Who we are ?</h2>
+			<h2>Who are we ?</h2>
 			<p>PC Protego is an onsite, and support company which provide technical support services. We provide a <strong> quick, efficient, and friendly </strong> service. Besides, our support plans offer to customers not only a peace of mind when things go wrong but also a chance not to<strong> pay for every computer every year</strong>.<br /> We ensure to provide the best quality service by using<strong> right tools and applications</strong>.
 			</p>
 		</div>
 		<div id="column2">
 			<h2>Why choose us ?</h2>
-			<p><strong> Pay If We Fix Your Computer's Problem -</strong> means that if we are unable to fix your problem, we will not charge you.
-					 <br><strong>Fixed Rate -</strong> means that no matter how long it takes the task to be performed, you pay a fixed bill.
-					
-					<br><strong> Pay When Your Computer Has A Problem -</strong> means that you <strong> do not need </strong> to pay for every computer every year. You make a <strong> single </strong> payment for your computer's problems.
-					<br><strong>Work Guaranteed -</strong> Our computer work is guaranteed for 30 days in a few cases if the problem reoccurs within 30 days, we fix it free of cost. <br>
-			</p>
+			<p><strong>Fixed Rate -</strong> means that no matter how long it takes the task to be performed, you pay a fixed bill.<br>
+			<br><strong>Work Guaranteed -</strong> Our computer work is guaranteed for 30 days in a few cases if the problem reoccurs within 30 days, we fix it free of cost. <br>
+			<br><strong> Pay If We Fix Your Computer's Problem -</strong> means that if we are unable to fix your problem, we will not charge you.<br>
+					<br><strong> Pay When Your Computer Has Been Repaired -</strong> means that you <strong> do not need </strong> to pay for every computer every year. You make a <strong> single </strong> payment for your computer's problems.
+					</p>
 		</div>
 		<div id="column3">
 			<h2>Contact Us </h2>
